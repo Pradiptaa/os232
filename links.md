@@ -1,7 +1,7 @@
 ---
 permalink: LINKS/
 ---
-###LINKS
+LINKS
 ---
 <p> https://www.w3schools.com/whatis/whatis_cli.asp --CLI commands, a brief explanation of each CLI commands and it's use
 <br> https://os.vlsm.org/playlists/ --OS PLaylist, containing videos of OS studies </p>
