@@ -13,5 +13,8 @@ LINKS
 ---
 <p> https://www.geeksforgeeks.org/memory-management-in-operating-system/ --All about memomy management in operation system </p>
 
---
+---
 <p> https://docs.oracle.com/cd/E19253-01/817-6223/chp-pointers-1/index.html --All about pointers and address in operation system </p>
+
+---
+<p> https://www.geeksforgeeks.org/virtual-memory-in-operating-system/ --All about virtual memory in operation system </p>
