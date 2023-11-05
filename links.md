@@ -18,3 +18,7 @@ LINKS
 
 ---
 <p> https://www.geeksforgeeks.org/virtual-memory-in-operating-system/ --All about virtual memory in operation system </p>
+
+---
+<p>https://www.geeksforgeeks.org/fork-system-call-in-operating-system/ --About fork system call</p>
+<p>https://www.tutorialspoint.com/concurrency-in-operating-system#:~:text=The%20principles%20of%20concurrency%20in,of%20multiple%20processes%20or%20threads. --About concurrency in operating system</p>
