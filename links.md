@@ -25,3 +25,6 @@ LINKS
 
 ---
 <p>https://www.geeksforgeeks.org/introduction-of-process-synchronization/ --About process synchronization </p>
+
+---
+<p>https://www.techtarget.com/searchdatacenter/definition/Linux-operating-system --About linux in operation system </p>
