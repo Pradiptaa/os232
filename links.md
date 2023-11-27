@@ -28,3 +28,6 @@ LINKS
 
 ---
 <p>https://www.techtarget.com/searchdatacenter/definition/Linux-operating-system --About linux in operation system </p>
+
+---
+<p>https://www.geeksforgeeks.org/difference-between-firmware-and-operating-system/ --The difference between firmware and operating system </p>
