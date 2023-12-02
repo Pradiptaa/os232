@@ -31,3 +31,7 @@ LINKS
 
 ---
 <p>https://www.geeksforgeeks.org/difference-between-firmware-and-operating-system/ --The difference between firmware and operating system </p>
+
+---
+<p>https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/anxiety-treatment-options --Doing LFS is giving me anxiety</p>
+<p>https://scele.cs.ui.ac.id/mod/forum/discuss.php?d=48165 --Always backup</p>
